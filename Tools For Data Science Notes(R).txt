@@ -1,0 +1,53 @@
+R
+
+According to the kaggle 2019 survey learning up to 3 or more languages could increase your  salary
+R is free to use just like Python but its a new project. Instead of being open source, R is free software.
+
+Open source vs. Free Software
+Python is Open Source, R is free Software what's the difference?
+
+Similarities:
+-Both commonly refer to the same set of licenses
+-Both support collaboration
+-In many cases these terms can be used interchangeably(but not all)
+
+Differences
+-Open Source Initiative(OSI) champions open source while the Free Software Foundation(FSF) defines free software.
+-Open Source is more focuse on a set of values.
+ 
+Why you should learn R
+
+From the folks at R Studio:
+"It's better for everyone if the tools used for data science are free and open, 
+and we support coding as the most powerful path to tackle data science."
+
+Who is R for?
+
+-Most commonly used by Statisticians, Mathematicians and Data Miners for developing statistical software, 
+graphing and data analysis.
+-The array-oriented syntax makes it easier to translate from math to code.
+-Most folks learn R a few years into their data science career, 
+but R remains a welcoming language to those who don't have a software programming background.
+-R is popular in academia but companies that use R include IBM, Google, Facebook, Microsoft,
+ Bank of America, Ford, TechCrunch, Uber and Trulia.
+
+What makes R great:
+
+1. R has become the world's largest repository of statistical knowledge.
+2. More than 15,000 publicly released packages making it possible to conduct complex exploratory data analysis.
+3. R integrates well with other computer languages like C++, JAVA, C, .NET and Python.
+4. Common mathematical operations like matrix multiplication work straight out of the box.
+5. R has stronger object-oriented programming facilities than most statistical computing languages.
+
+Connect with R communities
+
+1. useR!https://user2020.r-project.org/
+2. WhyR https://whyr.pl/foundation/
+3. SatRdays https://satrdays.org/
+4. R-Ladies https://rladies.org/
+
+More about these communties around the world
+
+https://www.r-project.org/conferences/
+
+ 
